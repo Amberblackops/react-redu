@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "name": "Shivam  shukla",
+      "address": "London",
+      "email": "shivam@gmail.com",
+      "contact": "8750645856",
+      "id": 3
+    },
+    {
+      "name": "Satyam",
+      "email": "satyam@gmail.com",
+      "contact": "8549658754",
+      "address": "Moscow",
+      "id": 4
+    },
+    {
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "contact": "8945657655",
+      "address": "Sydney",
+      "id": 5
+    }
+  ]
+}
