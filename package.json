@@ -3,6 +3,9 @@
   "homepage": "https://Amberblackops.github.io/react-redux-crud",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
