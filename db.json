@@ -1,25 +1,32 @@
 {
   "user": [
     {
-      "name": "Shivam  shukla",
-      "address": "London",
-      "email": "shivam@gmail.com",
-      "contact": "8750645856",
-      "id": 3
-    },
-    {
-      "name": "Satyam",
-      "email": "satyam@gmail.com",
-      "contact": "8549658754",
-      "address": "Moscow",
-      "id": 4
-    },
-    {
       "name": "Krishna",
       "email": "krishna@gmail.com",
       "contact": "8945657655",
       "address": "Sydney",
       "id": 5
+    },
+    {
+      "name": "Khusi",
+      "email": "khusi@gmail.com",
+      "contact": "7877956564",
+      "address": "Siberia",
+      "id": 6
+    },
+    {
+      "name": "Amber Bharti",
+      "email": "amber@gmail.com",
+      "contact": "8844494879",
+      "address": "New york",
+      "id": 7
+    },
+    {
+      "name": "Shivam",
+      "email": "shivam@gmail.com",
+      "contact": "7898977898",
+      "address": "Medilline",
+      "id": 8
     }
   ]
 }

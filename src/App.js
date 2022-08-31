@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route exact path="/react-redux-crud" element={<Home/>}/>
+        <Route exact path="/" element={<Home/>}/>
         <Route exact path="/addUser" element={<AddUser/>}/>
         <Route exact path="/editUser/:id" element={<EditUser/>}/>
       </Routes>
