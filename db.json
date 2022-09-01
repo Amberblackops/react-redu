@@ -1,32 +1,25 @@
 {
   "user": [
     {
-      "name": "Krishna",
-      "email": "krishna@gmail.com",
-      "contact": "8945657655",
-      "address": "Sydney",
-      "id": 5
-    },
-    {
-      "name": "Khusi",
-      "email": "khusi@gmail.com",
-      "contact": "7877956564",
-      "address": "Siberia",
-      "id": 6
-    },
-    {
-      "name": "Amber Bharti",
-      "email": "amber@gmail.com",
-      "contact": "8844494879",
-      "address": "New york",
-      "id": 7
-    },
-    {
       "name": "Shivam",
       "email": "shivam@gmail.com",
       "contact": "7898977898",
       "address": "Medilline",
       "id": 8
+    },
+    {
+      "name": "Amber",
+      "email": "amber@gmail.com",
+      "contact": "8795456545",
+      "address": "Las vegas",
+      "id": 9
+    },
+    {
+      "name": "Krishna",
+      "email": "krishna@gmail.com",
+      "contact": "8496656484",
+      "address": "Abu dhabi",
+      "id": 10
     }
   ]
 }
